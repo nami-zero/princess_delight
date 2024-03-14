@@ -1,0 +1,23 @@
+{
+  "item.princess_delight.jewel_store": "Jewel Store",
+  "item.princess_delight.mana": "Mana",
+  "itemGroup.princess_delight_item" : "Princess Delight Item",
+
+  "item.princess_delight.heart_shaped_doughnut": "Heart Shaped Doughnut",
+  "item.princess_delight.apple_pie": "Apple Pie",
+  "item.princess_delight.mix_pulp_cake": "Mix Pulp Cake",
+  "itemGroup.princess_delight_food" : "Princess Delight Food",
+
+  "item.princess_delight.knight_sword": "Knight Sword",
+  "item.princess_delight.knight_sword_complete": "Knight Sword Complete",
+  "itemGroup.princess_delight_weapon" : "Princess Delight Weapon",
+
+  "item.princess_delight.royale_quipment_crown": "Royale Quipment Crown",
+  "item.princess_delight.royale_quipment_shoulder": "Royale Quipment Shoulder",
+  "itemGroup.princess_delight_armor" : "Princess Delight Armor",
+
+  "block.princess_delight.jewel_ore": "Jewel Ore",
+  "block.princess_delight.jewel_blocks": "Jewel Blocks",
+
+  "effect.princess_delight.emblem_power": "Emblem Power"
+}

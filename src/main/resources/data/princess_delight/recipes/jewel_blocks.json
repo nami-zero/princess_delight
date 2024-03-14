@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "princess_delight:jewel_store"
+    }
+  },
+  "result": {
+    "item": "princess_delight:jewel_blocks",
+    "count": 1
+  }
+}

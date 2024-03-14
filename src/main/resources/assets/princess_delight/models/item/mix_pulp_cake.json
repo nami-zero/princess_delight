@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "princess_delight:item/food/mix_pulp_cake"
+  }
+}

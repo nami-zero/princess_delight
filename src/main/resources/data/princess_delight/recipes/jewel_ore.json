@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "princess_delight:jewel_ore"
+  },
+  "result": "princess_delight:jewel_store",
+  "experience": 1,
+  "cookingtime": 100
+}

@@ -1,0 +1,23 @@
+{
+  "item.princess_delight.jewel_store": "宝石",
+  "item.princess_delight.mana": "玛娜",
+  "itemGroup.princess_delight_item" : "物品",
+
+  "item.princess_delight.heart_shaped_doughnut": "心形甜甜圈",
+  "item.princess_delight.apple_pie": "苹果派",
+  "item.princess_delight.mix_pulp_cake": "混合果浆蛋糕",
+  "itemGroup.princess_delight_food" : "食物",
+
+  "item.princess_delight.knight_sword": "公主骑士剑",
+  "item.princess_delight.knight_sword_complete": "§c公主骑士剑.完全",
+  "itemGroup.princess_delight_weapon" : "武器",
+
+  "item.princess_delight.royale_quipment_crown": "皇家装备 王冠",
+  "item.princess_delight.royale_quipment_shoulder": "皇家装备 肩甲",
+  "itemGroup.princess_delight_armor" : "盔甲",
+
+  "block.princess_delight.jewel_ore": "宝石矿石",
+  "block.princess_delight.jewel_blocks": "宝石块",
+
+  "effect.princess_delight.emblem_power": "纹章之力"
+}
