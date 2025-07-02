@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "princess_delight:block/jewel_ore"
-  }
-}
